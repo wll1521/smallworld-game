@@ -57,7 +57,7 @@ The project was designed to:
 ### Running the Game in Eclipse
 
 1. Open the project in Package Explorer
-2. Find class containing main with GUI:
+2. Find class containing main with GUI under SRC folder:
    edu.southalabama.csc527.smallworld.textui.graphical
 3. Right click -> Run As -> Java Application
    or just run included .jar file in "release" folder
