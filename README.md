@@ -1,9 +1,7 @@
 # SmallWorld-Game Space Adventure
 
 Authors:
-William Locklier
-Kylie Arnett
-Jeremy Quijano
+William Locklier, Kylie Arnett, Jeremy Quijano
 
 
 ---
