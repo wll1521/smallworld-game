@@ -1,5 +1,4 @@
 # SmallWorld-Game Space Adventure
-=====================================
 
 Authors:
 William Locklier
